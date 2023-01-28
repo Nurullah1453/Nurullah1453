@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Nurullah1453/Nurullah1453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Java-Selenium-APPIUM-API-SQL
+- 📫 How to reach me: https://www.linkedin.com/in/nurullah-demir-b8b347255/
+- ⚡ Fun fact: Let's catch the bugs 
+
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Nurullah1453) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/nurullahd6?igshid=ZDdkNTZiNTM=) 
+
+
+
+
