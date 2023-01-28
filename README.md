@@ -2,13 +2,16 @@
 
 Here are some ideas to get you started:
 
-- 💬 Ask me about Java-Selenium-APPIUM-API-SQL
-- 📫 How to reach me: https://www.linkedin.com/in/nurullah-demir-b8b347255/
+- 💬 Ask me about: Java-Selenium-APPIUM-API-SQL-JDBC
+- 📫 How to reach me: nurullah.demir1453@gmail.com
 - ⚡ Fun fact: Let's catch the bugs 
 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Nurullah1453) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://www.linkedin.com/in/nurullah-demir-b8b347255/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://instagram.com/nurullahd6?igshid=ZDdkNTZiNTM=) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+
 
 
 
