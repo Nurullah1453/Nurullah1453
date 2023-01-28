@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nurullah.demir1453@gmail.com
 - ⚡ Fun fact: Let's catch the bugs 
 
-[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][https://www.linkedin.com/in/nurullah-demir-b8b347255/]
 
 
 
