@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: nurullah.demir1453@gmail.com
 - ⚡ Fun fact: Let's catch the bugs 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=link)(https://www.linkedin.com/in/nurullah-demir-b8b347255/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nurullah-demir-b8b347255/)
 
 
 
