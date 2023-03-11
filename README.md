@@ -4,7 +4,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nurullah-demir-b8b347255/">
+  <a href="https://www.linkedin.com/in/nurullahdemir41/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  
   <a href="https://twitter.com/qaNurullah">
